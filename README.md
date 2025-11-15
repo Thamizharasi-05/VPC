@@ -1,7 +1,7 @@
 # VPC
 ## Ex.4 Deployment and configuration of a Private Cloud in AWS
-## NAME : JAYASURYA B
-## REG NO : 212224100026
+## NAME : Thamizharasi G
+## REG NO : 212224100059
 ## Aim:
 To set up of a Private Cloud in AWS.
 
